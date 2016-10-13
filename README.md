@@ -1,11 +1,11 @@
 ##La hiena moteada
 ####Página dedicada a la hiena moteada "_Crocuta crocuta_"
 
-La página que he **"_creado_"** esta dedicada a mi hijo que le **encanta** la hiena moteada. 
+La página que he **"_creado_"** está dedicada a mi hijo que le **encanta** la hiena moteada. 
 
 La imagen que he utilizado es ![](http://www.bioenciclopedia.com/wp-content/uploads/2013/12/hiena-moteada-800.jpg)
 
-He echo una lista de:
+He hecho una lista de:
 * Familia
 * Nombre cientifico
 * Medida
